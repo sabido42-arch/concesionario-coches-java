@@ -93,7 +93,8 @@ public interface Alquilable {
 Abrir el proyecto en Eclipse
 Ejecutar la clase Main
 
-🖥️ Ejemplo de ejecución
+###🖥️ Ejemplo de ejecución
+
 El coche km0 con matrícula 4587DFR y modelo Peugeot se ha alquilado.
 El coche nuevo con matrícula 75648KJU y modelo Citroen se ha vendido.
 El coche de segunda mano con matrícula 64537ERT y modelo Opel se ha vendido.
