@@ -18,6 +18,8 @@ utilizando conceptos fundamentales de la programación orientada a objetos.
 ---
 
 ##  🏗️ Estructura del proyecto
+
+```text
 src/
 └── concesionario/
 ├── Coche.java
@@ -27,7 +29,7 @@ src/
 ├── Vendible.java
 ├── Alquilable.java
 └── Main.java
-
+```
 ---
 
 ##  🚘  Tipos de coches
