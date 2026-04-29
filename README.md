@@ -1,4 +1,4 @@
-#  🚗 Concesionario de Coches en Java
+## 🚗 Concesionario de Coches en Java
 
 Proyecto desarrollado en Java que simula la gestión de un concesionario de coches,
 utilizando conceptos fundamentales de la programación orientada a objetos.
@@ -63,26 +63,43 @@ Contiene los atributos comunes:
 
 ---
 
-##  🔌 Interfaces
+## 🔌 Interfaces
+
+```java
 public interface Vendible {
     void vender();
 }
+```
 
+```java
 public interface Alquilable {
     void alquilar();
 }
+```
 
 ---
 
-🧠 Funcionalidades
-Creación de distintos tipos de coches
-Venta y alquiler según el tipo
-Uso de herencia para evitar duplicación de código
-Implementación de interfaces para definir comportamientos
-Visualización de datos mediante toString()
+## 🧠 Funcionalidades
+- Creación de distintos tipos de coches
+- Venta y alquiler según el tipo
+- Uso de herencia para evitar duplicación de código
+- Implementación de interfaces para definir comportamientos
+- Visualización de datos mediante toString()
 
 ---
 
-👩‍💻 Autor
+## ▶️ Cómo ejecutar
 
-Isabel (estudiante DAM)
+Abrir el proyecto en Eclipse
+Ejecutar la clase Main
+
+🖥️ Ejemplo de ejecución
+El coche km0 con matrícula 4587DFR y modelo Peugeot se ha alquilado.
+El coche nuevo con matrícula 75648KJU y modelo Citroen se ha vendido.
+El coche de segunda mano con matrícula 64537ERT y modelo Opel se ha vendido.
+
+Número de coches en stock: 3
+
+## 👩‍💻 Autor
+
+**Isabel (estudiante DAM)**
