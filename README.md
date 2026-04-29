@@ -92,8 +92,8 @@ public interface Alquilable {
 
 ## ▶️ Cómo ejecutar
 
-Abrir el proyecto en Eclipse
-Ejecutar la clase Main
+1. Abrir el proyecto en Eclipse
+2. Ejecutar la clase Main
 
 ###🖥️ Ejemplo de ejecución
 
